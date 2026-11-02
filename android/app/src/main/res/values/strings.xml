@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PK TRANSPORT</string>
+    <string name="title_activity_main">PK TRANSPORT</string>
+    <string name="package_name">com.pktransport.app</string>
+    <string name="custom_url_scheme">com.pktransport.app</string>
+</resources>
