@@ -28,7 +28,7 @@ function loginView(message = "") {
   app.innerHTML = `
     <div class="login-shell">
       <section class="intro">
-        <div class="brand-mark">PK</div>
+        <img src="/pk-transport-logo.png" alt="PK TRANSPORT" style="width:100%;max-width:420px;height:auto;object-fit:contain;">
         <div class="eyebrow">TRANSPORT MANAGEMENT SYSTEM</div>
         <h1>Move your business<br><span>forward.</span></h1>
         <p>Manage vehicles, trips, income and expenses from one simple workspace.</p>
